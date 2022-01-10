@@ -1,0 +1,25 @@
+{
+  "name": "mqtt-publish",
+  "version": "1.0.0",
+  "description": "Una aplicación para probar MQTT.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeniadevteam/mqtt-publish.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingeniadevteam/mqtt-publish/issues"
+  },
+  "homepage": "https://github.com/ingeniadevteam/mqtt-publish#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mqtt": "^4.3.4"
+  }
+}
